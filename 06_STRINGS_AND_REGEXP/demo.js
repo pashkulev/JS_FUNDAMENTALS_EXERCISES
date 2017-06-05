@@ -1,3 +1,3 @@
-/**
- * Created by Vankata on 6/5/2017.
- */
+function hello(name) {
+  console.log("Hello " + name);
+}
